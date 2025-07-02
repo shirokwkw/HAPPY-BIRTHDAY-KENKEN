@@ -11,7 +11,7 @@ const senderNames = [
     "Siomay",
     "Paul",
     "Kringgyy",
-    // "Cee Jayy", // Yeah, Cee Jayy is out na, so he's not included here.
+   "Cee Jayy",
     "Didayyy"
 ];
 
@@ -26,7 +26,8 @@ const audioUrls = [
     "https://dl.dropboxusercontent.com/scl/fi/g1cir1larr2bx4conmocb/siomay.m4a?rlkey=ajzt9soqyo76qhqepcy41bj6q&st=k82jss76&dl=1",
     "https://dl.dropboxusercontent.com/scl/fi/vwgzg6ylf9yr3niuezc4q/paul.wav?rlkey=3vddpswscsvmhfox9jqqnoe8b&st=qfy7v6lv&dl=1",
     "https://dl.dropboxusercontent.com/scl/fi/cts422j8wdtz47yy7u9mx/kringg.mp3?rlkey=e9i4jjm2vprpsisfgyvwm3xqe&st=5shobvc7&dl=1",
-    // "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3", // This was Cee Jayy's audio, but we removed it na.
+     "https://dl.dropboxusercontent.com/scl/fi/ku6gn532fqlz4nbimvk1r/cjj.mp3?rlkey=qy2k17xw08zd0eg0776vb5ygj&st=h8l7m7ms&dl=1", 
+.
     "https://dl.dropboxusercontent.com/scl/fi/0nc8qgbg1jjz5e1uj8w16/didayy.m4a?rlkey=j7l3639vfjqsx0odyimdnr232&st=gzj2sxv8&dl=1"  
 ];
 
@@ -41,7 +42,7 @@ const senderImageUrls = [
     "https://www.dropbox.com/scl/fi/ticsuz8w9vozs0n93nrir/siomay.jpg?rlkey=pzsrzsoyloill2z2ibtmu5n48&st=z7k4zy07&dl=1", 
     "https://www.dropbox.com/scl/fi/x2763mx5z23rb2dl78k4e/paul.jpg?rlkey=2412gyv92bfjwntgwn321v3lr&st=pe5vqsii&dl=1", 
     "https://www.dropbox.com/scl/fi/7yd6rerwa78m4c0yurikv/kringg.jpg?rlkey=yhsw2vjcr4h2vkb1jkp20b94c&st=ma8rguxj&dl=1",
-    // "https://picsum.photos/seed/ceejayy/400/400", // This was Cee Jayy's image, but we removed it na rin.
+     "https://www.dropbox.com/scl/fi/jhzt2l5h5jjpe2vr217sl/cjj.jpg?rlkey=vl1ws96zq8ud2t0pviy273ow1&st=yw30zbun&dl=1",
     "https://www.dropbox.com/scl/fi/li1evqpv5m4h0ete7x0v0/didayy.jpg?rlkey=j3cjcky3rwwzmdybke3h5xm5j&st=1hvd7s1q&dl=1"
 ];
 
